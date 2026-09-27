@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-Enterprise-Prompt-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Prompt-Hub?style=flat-square&logo=github" alt="GitHub Stars"/></a><a href="https://github.com/ishandutta2007/Awesome-Enterprise-Prompt-Hub/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Prompt-Hub?style=flat-square&logo=github" alt="GitHub Forks"/></a><a href="https://github.com/ishandutta2007/Awesome-Enterprise-Prompt-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-Enterprise-Prompt-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Prompt-Hub?style=flat-square&logo=github" alt="GitHub_Stars"/></a><a href="https://github.com/ishandutta2007/Awesome-Enterprise-Prompt-Hub/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Prompt-Hub?style=flat-square&logo=github" alt="GitHub Forks"/></a><a href="https://github.com/ishandutta2007/Awesome-Enterprise-Prompt-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -54,9 +54,9 @@ The table below summarizes leading enterprise-grade SaaS platforms for prompt ma
 
 For privacy-first, self-hostable, and developer-centric LLMOps architectures, open-source projects offer full data control, zero-vendor-lockin, and flexible self-hosting. 
 
-Below are top open-source prompt hubs, LLM gateways, and evaluation frameworks, sorted by **GitHub Star Count (Descending)**:
+Below are top open-source prompt hubs, LLM gateways, and evaluation frameworks, sorted by **GitHub Stars_Count (Descending)**:
 
-| Project 📦 | Repository Link 🔗 | Description 📜 | Star Count Badge ⭐ |
+| Project 📦 | Repository Link 🔗 | Description 📜 | Stars_Count Badge ⭐ |
 | :--- | :--- | :--- | :--- |
 | **LiteLLM** | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Call 100+ LLM APIs using OpenAI format, feature-rich AI gateway, load balancer & prompt proxy. | [<img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" alt="LiteLLM Stars"/>](https://github.com/BerriAI/litellm/stargazers) |
 | **Langfuse** | [langfuse/langfuse](https://github.com/langfuse/langfuse) | Open-source AI engineering platform—prompt management, observability, tracing & automated evals. | [<img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" alt="Langfuse Stars"/>](https://github.com/langfuse/langfuse/stargazers) |
@@ -99,7 +99,7 @@ Contributions are warmly welcomed! Help keep this enterprise prompt hub up to da
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Edit** entries in `README.md` following the existing markdown table format.
-3. 🔍 Ensure pricing, free tier limits, company valuation/funding, and open-source star badges are accurate.
+3. 🔍 Ensure pricing, free tier limits, company valuation/funding, and open-source Stars_Badges are accurate.
 4. 🚀 Submit a **Pull Request** with a clear explanation of your changes.
 
 Check out [Awesome Lists](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated tech collections!
